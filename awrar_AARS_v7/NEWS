@@ -1,0 +1,53 @@
+Version 0.1
+------------------------------------------------------------------------------
+
+* First version of the AWRA-R model. The model has routing, floodplain and Monod loss. 
+
+* Floodplain model reviewed by Dushmanta/Justin/Julien
+
+* Monod is not tested
+
+* Need to code reservoir and river evap/rainfall
+
+
+Version 0.2
+------------------------------------------------------------------------------
+
+* added reservoir and anabranch components
+
+* added bounds for awra-r inputs and parameters
+
+* added a function to get a default config vector
+
+Version 0.3
+------------------------------------------------------------------------------
+
+* added river volumes
+
+* added function to compute model performance and water accounts
+
+Version 0.4
+------------------------------------------------------------------------------
+
+* added irrigation model
+
+Version 0.5
+------------------------------------------------------------------------------
+
+* added routines to calibrate awrar with hydrodiy package
+
+Version 0.6
+------------------------------------------------------------------------------
+
+* added proper parameter library for GR4J
+
+Version 0.7
+------------------------------------------------------------------------------
+
+* changed carry over of reservoir contribution
+
+Version 0.8
+------------------------------------------------------------------------------
+
+* Rebuild for R 3.0.0
+

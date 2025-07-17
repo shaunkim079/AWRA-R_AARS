@@ -1,0 +1,66 @@
+# --------------------------------------------------
+# File comments :
+# AWRA-R model calibration for reach 422010
+# Calibrated parameters - scenario v10
+# ----
+# input file = inputs/MDB-CondamineBalonne/combined/combined_422010_sitev5.001.csv.gz
+# config file = inputs/MDB-CondamineBalonne/config/config_422010_sitev5.001.csv
+# scenario = v5.001
+# calib stage = v10
+# param file = outputs/jointcalibration/v10/MDB-CondamineBalonne/parameters/parameters_422010_v5.001.csv
+# cal     performed = TRUE
+# cal/val performed = FALSE
+# simulation start=1970-01-01 end=2014-06-30
+#
+# File info :
+# Written on : Thu Mar 12 21:43:57 2015
+# Author : 
+# Produced with R script : unknown
+# R Working dir : \\wron/Working/WIRADA/AWRA_II/AWRA_LRG/AWRA-LR_v5.00
+# R system : x86_64, mingw32
+# R version : R version 3.0.0 (2013-04-03)
+# --------------------------------------------------
+parname,value.per1,value.per2,value.final
+reach.id,422010,422010,422010
+flood.return.flow.coefficient,NA,NA,1.11851019785359e-05
+flood.ksat,9.40357633808041e-08,9.40357633808041e-08,9.40357633808041e-08
+monod.river.loss.a,NA,NA,4804190.12675169
+monod.river.loss.b,NA,NA,10839192.1931442
+overbank.flow.threshold,NA,NA,22.6145092592593
+overbank.flow.exponent,NA,NA,0.5
+runoff.correction.factor,NA,NA,0.00026637107681206
+aquifer.specific.yield,0.239999994395582,0.239999994395582,0.239999994395582
+aquifer.ksat,1.15740740625e-05,1.15740740625e-05,1.15740740625e-05
+aquifer.thickness,99.9999999,99.9999999,99.9999999
+surface.layer.thickness,1.4971,1.4971,1.4971
+river.conductivity,9.40357633808041e-08,9.40357633808041e-08,9.40357633808041e-08
+lag01,NA,NA,547728.060480799
+K01,NA,NA,1.93951920058153
+X01,0,0,0
+lag02,0,0,0
+K02,0,0,0
+X02,0,0,0
+lag03,0,0,0
+K03,0,0,0
+X03,0,0,0
+lag04,0,0,0
+K04,0,0,0
+X04,0,0,0
+lag05,0,0,0
+K05,0,0,0
+X05,0,0,0
+lag06,0,0,0
+K06,0,0,0
+X06,0,0,0
+lag07,0,0,0
+K07,0,0,0
+X07,0,0,0
+lag08,0,0,0
+K08,0,0,0
+X08,0,0,0
+lag09,0,0,0
+K09,0,0,0
+X09,0,0,0
+lag10,0,0,0
+K10,0,0,0
+X10,0,0,0

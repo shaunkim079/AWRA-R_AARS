@@ -1,0 +1,131 @@
+# --------------------------------------------------
+# File comments :
+# nrow = 116 ncol = 2
+# Author: Shaun Kim
+# updated for v5.001
+#
+# File info :
+# Written on : Thu Mar 12 12:17:50 2015
+# Author : 
+# Produced with R script : unknown
+# R Working dir : \\wron/Working/WIRADA/AWRA_II/AWRA_LRG/AWRA-LR_v5.00
+# R system : x86_64, mingw32
+# R version : R version 3.0.0 (2013-04-03)
+# --------------------------------------------------
+config.element,config.value
+use.routing,1
+use.flood,1
+use.monod,1
+use.reservoir,0
+use.ungauged,1
+use.anabranch,0
+timestep,86400
+river.area.alpha,1704481.87130959
+river.area.beta,0.411124205267314
+flood.alpha,1
+flood.beta,0.5
+anabranch.top.a,0
+anabranch.top.b,0
+anabranch.bottom.a,0
+anabranch.bottom.b,0
+total.river.length,109550
+river.depth.alpha,2.43365901336749
+river.depth.beta,1.9724740118752
+overbankflow.threshold,22.6145092592593
+reach.id,422010
+flood.ksat,9.40357633808041e-08
+aquifer.specific.yield,0.239999994395582
+aquifer.ksat,1.15740740625e-05
+aquifer.thickness,99.9999999
+surface.layer.thickness,1.4971
+river.conductivity,9.40357633808041e-08
+config.place.holder01,NA
+config.place.holder02,NA
+config.place.holder03,NA
+config.place.holder04,NA
+id.inflow01,422013
+id.inflow02,NA
+id.inflow03,NA
+id.inflow04,NA
+id.inflow05,NA
+id.inflow06,NA
+id.inflow07,NA
+id.inflow08,NA
+id.inflow09,NA
+id.inflow10,NA
+id.subcatchments.top01,4220100
+id.subcatchments.top02,NA
+id.subcatchments.top03,NA
+id.subcatchments.top04,NA
+id.subcatchments.top05,NA
+id.subcatchments.top06,NA
+id.subcatchments.top07,NA
+id.subcatchments.top08,NA
+id.subcatchments.top09,NA
+id.subcatchments.top10,NA
+id.subcatchments.bottom01,NA
+id.subcatchments.bottom02,NA
+id.subcatchments.bottom03,NA
+id.subcatchments.bottom04,NA
+id.subcatchments.bottom05,NA
+id.subcatchments.bottom06,NA
+id.subcatchments.bottom07,NA
+id.subcatchments.bottom08,NA
+id.subcatchments.bottom09,NA
+id.subcatchments.bottom10,NA
+area.subcatchments.top01,739.266
+area.subcatchments.top02,NA
+area.subcatchments.top03,NA
+area.subcatchments.top04,NA
+area.subcatchments.top05,NA
+area.subcatchments.top06,NA
+area.subcatchments.top07,NA
+area.subcatchments.top08,NA
+area.subcatchments.top09,NA
+area.subcatchments.top10,NA
+area.subcatchments.bottom01,NA
+area.subcatchments.bottom02,NA
+area.subcatchments.bottom03,NA
+area.subcatchments.bottom04,NA
+area.subcatchments.bottom05,NA
+area.subcatchments.bottom06,NA
+area.subcatchments.bottom07,NA
+area.subcatchments.bottom08,NA
+area.subcatchments.bottom09,NA
+area.subcatchments.bottom10,NA
+id.outflow01,422010
+id.outflow02,NA
+id.outflow03,NA
+id.outflow04,NA
+id.outflow05,NA
+id.outflow06,NA
+id.outflow07,NA
+id.outflow08,NA
+id.outflow09,NA
+id.outflow10,NA
+id.reservoirs01,NA
+id.reservoirs02,NA
+id.reservoirs03,NA
+id.reservoirs04,NA
+id.reservoirs05,NA
+link.length01,up422013_down422010_len109546
+link.length02,NA
+link.length03,NA
+link.length04,NA
+link.length05,NA
+link.length06,NA
+link.length07,NA
+link.length08,NA
+link.length09,NA
+link.length10,NA
+link.length11,NA
+link.length12,NA
+link.length13,NA
+link.length14,NA
+link.length15,NA
+link.length16,NA
+link.length17,NA
+link.length18,NA
+link.length19,NA
+link.length20,NA
+comment,NA
